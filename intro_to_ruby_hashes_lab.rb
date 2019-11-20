@@ -18,7 +18,7 @@ end
 
 def id_generator
   generator_for_id {
-    id: 5
+    num: 5
   }
   return generator_for_id
 end
